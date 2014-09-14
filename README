@@ -8,7 +8,7 @@ Aleatoric is an aleatoric music composition.
 Every 250 milliseconds, Aleatoric chooses a random note in the key of A
 Major and plays it until the next note is chosen. Furthermore, every
 second, three distinct notes are chosen at random to form a trichord
-which is sustained until the next trichord is chosen. The componsition
+which is sustained until the next trichord is chosen. The composition
 continues ad infinitum.
 
 Execution
