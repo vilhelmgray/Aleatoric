@@ -1,0 +1,31 @@
+                               Aleatoric
+
+About
+-----
+
+Aleatoric is an aleatoric music composition.
+
+Every 250 milliseconds, Aleatoric chooses a random note in the key of A
+Major and plays it until the next note is chosen. Furthermore, every
+second, three distinct notes are chosen at random to form a trichord
+which is sustained until the next trichord is chosen. The componsition
+continues ad infinitum.
+
+Execution
+---------
+
+Run the melody.ck and chord.ck patches concurrently:
+
+    %> chuck melody.ck chord.ck
+
+Licensing
+---------
+
+Aleatoric is free software released under the 2-clause BSD license.
+
+See the file LICENSE for copying conditions.
+
+Contact
+-------
+
+William Breathitt Gray <vilhelm.gray@gmail.com>
